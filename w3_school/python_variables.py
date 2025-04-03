@@ -1,5 +1,3 @@
-
-
 # Integer Variable
 age = 23
 print("Age:", age)
